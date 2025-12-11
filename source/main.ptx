@@ -8,7 +8,7 @@
   <book>
     <title>Caribbean History</title>
 
-    <subtitle>HSTY 337 Fall 2027</subtitle>
+    <subtitle>HSTY 337 Fall 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
